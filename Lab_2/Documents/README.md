@@ -5,4 +5,4 @@ dostosowane, aby były czytelne.
 
 W folderze Analysis Data znajdują się dane po przetworzeniu.
 
-
+W folderze Documents znajdujes się plik README, oraz kopia gotowego pliku.b
